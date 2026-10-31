@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MyColors</string>
+    <string name="title_activity_main">MyColors</string>
+    <string name="package_name">com.mycolors.app</string>
+    <string name="custom_url_scheme">com.mycolors.app</string>
+</resources>
